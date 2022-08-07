@@ -1,11 +1,11 @@
 Summary:	A C header file only implementation of a typed linked list
 Name:		tllist
-Version:	1.0.5
+Version:	1.1.0
 Release:	1
 License:	MIT
 Group:		Development/Libraries
 Source0:	https://codeberg.org/dnkl/tllist/archive/%{version}.tar.gz
-# Source0-md5:	5a778c92b33b654564094c8a40dce848
+# Source0-md5:	77e9f57c5d37d74fd09522fee5f5137d
 URL:		https://codeberg.org/dnkl/tllist
 BuildRequires:	meson >= 0.54.0
 BuildRequires:	ninja
